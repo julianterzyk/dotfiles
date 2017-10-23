@@ -6,7 +6,7 @@ My personal configs.
 
 Clone the repository into
 
-    git clone git@github.com:bigcrunsh/dotfiles ~/dotfiles
+    git clone git@github.com:julianterzyk/dotfiles ~/dotfiles
 
 Symlink dotfiles into your home directory
 
