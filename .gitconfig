@@ -3,8 +3,8 @@
 [pull]
 	default = current
 [user]
-	name = Christoph Sawade
-	email = christoph@sawade.me
+	name = Julian Terzyk
+	email = julianterzyk@gmail.com
 [core]
 	quotepath = false
 	excludesfile = ~/.gitignore
