@@ -4,5 +4,4 @@
 
 # python
 *.py[cod]
-
-.soundcloud
+.ipynb_checkpoints
