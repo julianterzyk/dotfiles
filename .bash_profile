@@ -13,6 +13,9 @@ export TERM=screen-256color # xterm-256color
 # autojump
 [[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
 
+# python anaconda3
+export PATH="$HOME/anaconda3/bin:$PATH"
+
 # java
 export JAVA_HOME=$(/usr/libexec/java_home)
 
