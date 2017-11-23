@@ -3,7 +3,7 @@
 [pull]
 	default = current
 [user]
-	name = Julian Terzyk
+	name = julianterzyk
 	email = julianterzyk@gmail.com
 [core]
 	quotepath = false
