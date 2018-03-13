@@ -39,6 +39,12 @@ alias tree='tree -C' # color
 alias vi='vim'
 alias vim='/usr/local/bin/vim' # don't use OSX built-in vim
 
+# idagio
+alias idagio="cd /Users/julianterzyk/src/github/idagio"
+
+# direnv
+eval "$(direnv hook bash)"
+
 # history
 shopt -s histappend
 
